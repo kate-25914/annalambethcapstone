@@ -16,6 +16,15 @@
 </template>
   </category>
   
+  <category>
+      <pattern>DEV*</pattern>
+      <template>Which coding language interests you the most?
+            <ul><li>Java</li>
+            <li>Python</li></ul>
+      </template>
+      
+  </category>
+  
   
   
 </aiml>
