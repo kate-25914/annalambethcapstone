@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    
+  <category>
+    <pattern>*</pattern>
+    <template>Please type "start" to begin.</template>
+  </category>
+  
+  <category>
+      <pattern>START</pattern>
+      <template>Which of the following are you more interested in?
+                <ul><li>Development</li>
+                <li>Analyzing</li>
+                <li>Engineering</li></ul>
+</template>
+  </category>
+  
+  
+  
+</aiml>
